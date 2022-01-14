@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/1 Two Sum.cpp
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/sstream
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/iostream
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/vector
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/string
+map
+/Users/delta/Desktop/Leetcode Problems/Data Structure/1 Two Sum/map
+
