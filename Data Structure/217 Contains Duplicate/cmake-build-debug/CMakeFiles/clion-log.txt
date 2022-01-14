@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/cmake-build-debug

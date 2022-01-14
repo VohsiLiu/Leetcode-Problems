@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/217 Contains Duplicate.cpp
+sstream
+-
+iostream
+/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/iostream
+vector
+/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/vector
+set
+/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/set
+string
+/Users/delta/Desktop/Leetcode/Data Structure/217 Contains Duplicate/string
+
