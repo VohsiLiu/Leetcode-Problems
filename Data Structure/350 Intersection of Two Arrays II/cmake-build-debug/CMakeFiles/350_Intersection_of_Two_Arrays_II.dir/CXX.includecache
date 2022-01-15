@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/350 Intersection of Two Arrays II.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/iostream
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/sstream
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/vector
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/string
+map
+/Users/delta/Desktop/Leetcode Problems/Data Structure/350 Intersection of Two Arrays II/map
+
