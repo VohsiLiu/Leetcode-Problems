@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure/118 Pascal's Triangle/118 Pascal's Triangle.cpp
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure/118 Pascal's Triangle/vector
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/118 Pascal's Triangle/iostream
+
