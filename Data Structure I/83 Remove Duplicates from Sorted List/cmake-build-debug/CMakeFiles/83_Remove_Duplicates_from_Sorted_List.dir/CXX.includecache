@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure/83 Remove Duplicates from Sorted List/83 Remove Duplicates from Sorted List.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/83 Remove Duplicates from Sorted List/iostream
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/83 Remove Duplicates from Sorted List/sstream
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure/83 Remove Duplicates from Sorted List/string
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure/83 Remove Duplicates from Sorted List/vector
+

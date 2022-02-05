@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure/21 Merge Two Sorted Lists/21 Merge Two Sorted Lists.cpp
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure/21 Merge Two Sorted Lists/vector
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/21 Merge Two Sorted Lists/iostream
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure/21 Merge Two Sorted Lists/sstream
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure/21 Merge Two Sorted Lists/string
+
