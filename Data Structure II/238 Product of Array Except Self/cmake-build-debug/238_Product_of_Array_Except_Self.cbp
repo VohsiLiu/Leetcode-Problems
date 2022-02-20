@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="238_Product_of_Array_Except_Self"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="238_Product_of_Array_Except_Self">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug/238_Product_of_Array_Except_Self" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 238_Product_of_Array_Except_Self"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="238_Product_of_Array_Except_Self/fast">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug/238_Product_of_Array_Except_Self" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 238_Product_of_Array_Except_Self/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/238\ Product\ of\ Array\ Except\ Self/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/238 Product of Array Except Self.cpp">
+			<Option target="238_Product_of_Array_Except_Self"/>
+		</Unit>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/238 Product of Array Except Self/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

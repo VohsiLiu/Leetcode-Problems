@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="347_Top_K_Frequent_Elements"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="347_Top_K_Frequent_Elements">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug/347_Top_K_Frequent_Elements" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 347_Top_K_Frequent_Elements"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="347_Top_K_Frequent_Elements/fast">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug/347_Top_K_Frequent_Elements" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 347_Top_K_Frequent_Elements/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/347\ Top\ K\ Frequent\ Elements/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/347 Top K Frequent Elements.cpp">
+			<Option target="347_Top_K_Frequent_Elements"/>
+		</Unit>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/347 Top K Frequent Elements/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="199_Binary_Tree_Right_Side_View"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="199_Binary_Tree_Right_Side_View">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug/199_Binary_Tree_Right_Side_View" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 199_Binary_Tree_Right_Side_View"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="199_Binary_Tree_Right_Side_View/fast">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug/199_Binary_Tree_Right_Side_View" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 199_Binary_Tree_Right_Side_View/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Data\ Structure\ II/199\ Binary\ Tree\ Right\ Side\ View/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/199 Binary Tree Right Side View.cpp">
+			<Option target="199_Binary_Tree_Right_Side_View"/>
+		</Unit>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Data Structure II/199 Binary Tree Right Side View/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
