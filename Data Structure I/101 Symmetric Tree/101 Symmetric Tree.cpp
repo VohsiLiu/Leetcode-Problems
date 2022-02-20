@@ -18,7 +18,23 @@ struct TreeNode {
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
+        if (root == nullptr){
+            return true;
+        }
+        return check(root->right, root->left);
+    }
 
+    bool check(TreeNode* a, TreeNode* b){
+        if (a == nullptr && b == nullptr){
+            return true;
+        }
+        if (a == nullptr && b != nullptr){
+            return false;
+        }
+        if (a != nullptr && b == nullptr){
+            return false;
+        }
+        return a->val == b->val && check(a->right, b->left) && check(a->left, b->right);
     }
 };
 

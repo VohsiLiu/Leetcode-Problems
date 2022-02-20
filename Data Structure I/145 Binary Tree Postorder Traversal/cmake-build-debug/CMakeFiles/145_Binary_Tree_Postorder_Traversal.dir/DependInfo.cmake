@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

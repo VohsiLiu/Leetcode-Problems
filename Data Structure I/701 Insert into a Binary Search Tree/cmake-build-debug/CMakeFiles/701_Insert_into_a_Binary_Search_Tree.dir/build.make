@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree"
+CMAKE_SOURCE_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/depend.make
@@ -68,16 +68,16 @@ include CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/flags.make
 
 CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o: CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/flags.make
 CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o: ../701\ Insert\ into\ a\ Binary\ Search\ Tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o -c "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o -c "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp"
 
 CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp" > CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp" > CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.i
 
 CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp" -o CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/701 Insert into a Binary Search Tree.cpp" -o CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.s
 
 # Object files for target 701_Insert_into_a_Binary_Search_Tree
 701_Insert_into_a_Binary_Search_Tree_OBJECTS = \
@@ -89,7 +89,7 @@ CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Sea
 701_Insert_into_a_Binary_Search_Tree: CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/701_Insert_into_a_Binary_Search_Tree.cpp.o
 701_Insert_into_a_Binary_Search_Tree: CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/build.make
 701_Insert_into_a_Binary_Search_Tree: CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 701_Insert_into_a_Binary_Search_Tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 701_Insert_into_a_Binary_Search_Tree"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -101,6 +101,6 @@ CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/clean:
 .PHONY : CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/clean
 
 CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/depend:
-	cd "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree" "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree" "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/701 Insert into a Binary Search Tree/cmake-build-debug/CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/701_Insert_into_a_Binary_Search_Tree.dir/depend
 

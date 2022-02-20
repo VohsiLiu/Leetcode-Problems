@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/226 Invert Binary Tree/226 Invert Binary Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/226 Invert Binary Tree/cmake-build-debug/CMakeFiles/226_Invert_Binary_Tree.dir/226_Invert_Binary_Tree.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/226 Invert Binary Tree/226 Invert Binary Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/226 Invert Binary Tree/cmake-build-debug/CMakeFiles/226_Invert_Binary_Tree.dir/226_Invert_Binary_Tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

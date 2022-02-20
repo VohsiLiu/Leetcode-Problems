@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure/653 Two Sum IV - Input is a BST"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/653 Two Sum IV - Input is a BST"
 -- The C compiler identification is AppleClang 13.0.0.13000029
 -- The CXX compiler identification is AppleClang 13.0.0.13000029
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/delta/Desktop/Leetcode Problems/Data Structure/653 Two Sum IV - Input is a BST/cmake-build-debug
+-- Build files have been written to: /Users/delta/Desktop/Leetcode Problems/Data Structure I/653 Two Sum IV - Input is a BST/cmake-build-debug

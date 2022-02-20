@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/235 Lowest Common Ancestor of a Binary Search Tree/235 Lowest Common Ancestor of a Binary Search Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/235 Lowest Common Ancestor of a Binary Search Tree/cmake-build-debug/CMakeFiles/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.dir/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/235 Lowest Common Ancestor of a Binary Search Tree/235 Lowest Common Ancestor of a Binary Search Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/235 Lowest Common Ancestor of a Binary Search Tree/cmake-build-debug/CMakeFiles/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.dir/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/112 Path Sum/112 Path Sum.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/112 Path Sum/cmake-build-debug/CMakeFiles/112_Path_Sum.dir/112_Path_Sum.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/112 Path Sum/112 Path Sum.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/112 Path Sum/cmake-build-debug/CMakeFiles/112_Path_Sum.dir/112_Path_Sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

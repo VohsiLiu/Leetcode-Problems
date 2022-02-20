@@ -18,7 +18,28 @@ struct TreeNode {
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-
+        if (root == nullptr){
+            return new TreeNode(val);
+        }
+        TreeNode* pos = root;
+        while (pos != nullptr){
+            if (pos->val < val){
+                if (pos->right == nullptr){
+                    pos->right = new TreeNode(val);
+                    break;
+                }else{
+                    pos = pos->right;
+                }
+            } else{
+                if (pos->left == nullptr){
+                    pos->left = new TreeNode(val);
+                    break;
+                }else{
+                    pos = pos->left;
+                }
+            }
+        }
+        return root;
     }
 };
 

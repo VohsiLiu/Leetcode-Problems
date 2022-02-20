@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal"
+CMAKE_SOURCE_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/depend.make
@@ -68,16 +68,16 @@ include CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/flags.make
 
 CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o: CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/flags.make
 CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o: ../145\ Binary\ Tree\ Postorder\ Traversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o -c "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o -c "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp"
 
 CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" > CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" > CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.i
 
 CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" -o CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/145 Binary Tree Postorder Traversal.cpp" -o CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.s
 
 # Object files for target 145_Binary_Tree_Postorder_Traversal
 145_Binary_Tree_Postorder_Traversal_OBJECTS = \
@@ -89,7 +89,7 @@ CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Tra
 145_Binary_Tree_Postorder_Traversal: CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/145_Binary_Tree_Postorder_Traversal.cpp.o
 145_Binary_Tree_Postorder_Traversal: CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/build.make
 145_Binary_Tree_Postorder_Traversal: CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 145_Binary_Tree_Postorder_Traversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 145_Binary_Tree_Postorder_Traversal"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -101,6 +101,6 @@ CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/clean:
 .PHONY : CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/clean
 
 CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/depend:
-	cd "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/145 Binary Tree Postorder Traversal/cmake-build-debug/CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/145_Binary_Tree_Postorder_Traversal.dir/depend
 

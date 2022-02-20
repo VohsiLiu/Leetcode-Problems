@@ -3,6 +3,7 @@
 #include "vector"
 #include "string"
 #include "queue"
+#include "stack"
 
 using namespace std;
 
@@ -19,7 +20,22 @@ struct TreeNode {
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-
+        vector<int> res;
+        if (root == nullptr){
+            return res;
+        }
+        stack<TreeNode*> stk;
+        while (!stk.empty() || root != nullptr){
+            while (root != nullptr){
+                stk.push(root);
+                root = root->left;
+            }
+            root = stk.top();
+            stk.pop();
+            res.push_back(root->val);
+            root = root->right;
+        }
+        return res;
     }
 };
 

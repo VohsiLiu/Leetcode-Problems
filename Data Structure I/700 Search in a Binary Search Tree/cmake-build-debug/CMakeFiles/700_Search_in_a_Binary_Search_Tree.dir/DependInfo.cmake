@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/700 Search in a Binary Search Tree/700 Search in a Binary Search Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/700 Search in a Binary Search Tree/cmake-build-debug/CMakeFiles/700_Search_in_a_Binary_Search_Tree.dir/700_Search_in_a_Binary_Search_Tree.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/700 Search in a Binary Search Tree/700 Search in a Binary Search Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/700 Search in a Binary Search Tree/cmake-build-debug/CMakeFiles/700_Search_in_a_Binary_Search_Tree.dir/700_Search_in_a_Binary_Search_Tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

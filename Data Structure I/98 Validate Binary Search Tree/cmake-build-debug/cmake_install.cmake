@@ -1,4 +1,4 @@
-# Install script for directory: /Users/delta/Desktop/Leetcode Problems/Data Structure/98 Validate Binary Search Tree
+# Install script for directory: /Users/delta/Desktop/Leetcode Problems/Data Structure I/98 Validate Binary Search Tree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/delta/Desktop/Leetcode Problems/Data Structure/98 Validate Binary Search Tree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/delta/Desktop/Leetcode Problems/Data Structure I/98 Validate Binary Search Tree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

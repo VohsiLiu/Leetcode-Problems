@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/435_Non_overlapping_Intervals.dir/435_Non-overlapping_Intervals.cpp.o -o 435_Non_overlapping_Intervals 

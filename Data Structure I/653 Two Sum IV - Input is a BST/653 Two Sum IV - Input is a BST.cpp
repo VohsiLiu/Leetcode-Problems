@@ -2,6 +2,8 @@
 #include "sstream"
 #include "string"
 #include "queue"
+#include "vector"
+
 
 using namespace std;
 
@@ -19,7 +21,35 @@ struct TreeNode {
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
+        if (root == nullptr){
+            return false;
+        }
+        vector<int> res;
+        inOrder(root, res);
+        if (res.size() < 2){
+            return false;
+        }
+        int leftIndex = 0;
+        int rightIndex = res.size() -1;
+        while (leftIndex < rightIndex){
+            if (res[leftIndex] + res[rightIndex] == k){
+                return true;
+            }else if (res[leftIndex] + res[rightIndex] > k){
+                rightIndex--;
+            }else{
+                leftIndex++;
+            }
+        }
+        return false;
+    }
 
+    void inOrder(TreeNode* root, vector<int> &res){
+        if (root == nullptr){
+            return;
+        }
+        inOrder(root->left, res);
+        res.push_back(root->val);
+        inOrder(root->right, res);
     }
 };
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/delta/Desktop/Leetcode Problems/Data Structure/104 Maximum Depth of Binary Tree/104 Maximum Depth of Binary Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure/104 Maximum Depth of Binary Tree/cmake-build-debug/CMakeFiles/104_Maximum_Depth_of_Binary_Tree.dir/104_Maximum_Depth_of_Binary_Tree.cpp.o"
+  "/Users/delta/Desktop/Leetcode Problems/Data Structure I/104 Maximum Depth of Binary Tree/104 Maximum Depth of Binary Tree.cpp" "/Users/delta/Desktop/Leetcode Problems/Data Structure I/104 Maximum Depth of Binary Tree/cmake-build-debug/CMakeFiles/104_Maximum_Depth_of_Binary_Tree.dir/104_Maximum_Depth_of_Binary_Tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

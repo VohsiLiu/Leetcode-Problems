@@ -3,6 +3,7 @@
 #include "string"
 #include "vector"
 #include "queue"
+#include "stack"
 
 using namespace std;
 
@@ -20,8 +21,32 @@ struct TreeNode {
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-
+        vector<int> res;
+        if (root == nullptr){
+            return res;
+        }
+        stack<TreeNode*> stk;
+        TreeNode* prev = nullptr;
+        while (root != nullptr || !stk.empty()){
+            while (root != nullptr){
+                stk.push(root);
+                root = root->left;
+            }
+            root = stk.top();
+            stk.pop();
+            if (root->right && root->right != prev){
+                stk.push(root);
+                root = root->right;
+            }else{
+                res.push_back(root->val);
+                prev = root;
+                root = nullptr;
+            }
+     }
+        return res;
     }
+
+
 };
 
 void trimLeftTrailingSpaces(string &input) {
