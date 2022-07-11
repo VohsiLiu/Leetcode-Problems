@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Top100/32 Longest Valid Parentheses/32 Longest Valid Parentheses.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Top100/32 Longest Valid Parentheses/iostream
+string
+/Users/delta/Desktop/Leetcode Problems/Top100/32 Longest Valid Parentheses/string
+vector
+/Users/delta/Desktop/Leetcode Problems/Top100/32 Longest Valid Parentheses/vector
+

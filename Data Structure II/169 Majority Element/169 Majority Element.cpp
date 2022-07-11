@@ -2,13 +2,26 @@
 #include "sstream"
 #include "string"
 #include "vector"
+#include "map"
 
 using namespace std;
 
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-
+        map<int, int> counts;
+        for (int num : nums){
+            counts[num]++;
+        }
+        int majority = 0;
+        int max_time = 0;
+        for (auto & count : counts){
+            if (count.second > max_time){
+                majority = count.first;
+                max_time = count.second;
+            }
+        }
+        return majority;
     }
 };
 

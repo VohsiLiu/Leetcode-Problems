@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/120 Triangle/120 Triangle.cpp
+vector
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/120 Triangle/vector
+iostream
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/120 Triangle/iostream
+

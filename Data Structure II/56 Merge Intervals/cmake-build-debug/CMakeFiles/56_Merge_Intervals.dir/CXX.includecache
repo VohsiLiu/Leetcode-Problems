@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/56 Merge Intervals/56 Merge Intervals.cpp
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/56 Merge Intervals/vector
+algorithm
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/56 Merge Intervals/algorithm
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/56 Merge Intervals/iostream
+

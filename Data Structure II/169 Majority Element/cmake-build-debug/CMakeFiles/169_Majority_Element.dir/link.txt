@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/169_Majority_Element.dir/169_Majority_Element.cpp.o -o 169_Majority_Element 
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/169_Majority_Element.dir/169_Majority_Element.cpp.o -o 169_Majority_Element 

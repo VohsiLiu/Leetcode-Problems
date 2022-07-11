@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/706 Design HashMap/706 Design HashMap.cpp
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/706 Design HashMap/vector
+

@@ -9,7 +9,23 @@ using namespace std;
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
-
+        vector<int> thisRow;
+        vector<int> lastRow = {1};
+        if (rowIndex == 0){
+            return lastRow;
+        }
+        for (int i = 0; i < rowIndex; i++){
+            thisRow.push_back(1);
+            for (int j = 0; j < lastRow.size() - 1; j++){
+                thisRow.push_back(lastRow[j] + lastRow[j+1]);
+            }
+            thisRow.push_back(1);
+            lastRow = thisRow;
+            if (i != rowIndex - 1){
+                thisRow.clear();
+            }
+        }
+        return thisRow;
     }
 };
 

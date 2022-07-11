@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/23_Merge_k_Sorted_Lists.dir/23_Merge_k_Sorted_Lists.cpp.o -o 23_Merge_k_Sorted_Lists 

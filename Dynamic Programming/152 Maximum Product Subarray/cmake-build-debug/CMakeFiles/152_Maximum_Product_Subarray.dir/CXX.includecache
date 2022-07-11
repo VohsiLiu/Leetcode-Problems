@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/152 Maximum Product Subarray/152 Maximum Product Subarray.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/152 Maximum Product Subarray/iostream
+vector
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/152 Maximum Product Subarray/vector
+sstream
+/Users/delta/Desktop/Leetcode Problems/Dynamic Programming/152 Maximum Product Subarray/sstream
+

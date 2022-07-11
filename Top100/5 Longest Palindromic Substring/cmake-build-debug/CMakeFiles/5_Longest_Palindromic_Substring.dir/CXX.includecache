@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Top100/5 Longest Palindromic Substring/5 Longest Palindromic Substring.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Top100/5 Longest Palindromic Substring/iostream
+string
+/Users/delta/Desktop/Leetcode Problems/Top100/5 Longest Palindromic Substring/string
+sstream
+/Users/delta/Desktop/Leetcode Problems/Top100/5 Longest Palindromic Substring/sstream
+vector
+/Users/delta/Desktop/Leetcode Problems/Top100/5 Longest Palindromic Substring/vector
+

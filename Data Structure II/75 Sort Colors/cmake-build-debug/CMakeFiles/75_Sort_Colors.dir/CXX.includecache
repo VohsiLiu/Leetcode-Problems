@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/75 Sort Colors.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/iostream
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/sstream
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/string
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/vector
+cctype
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/75 Sort Colors/cctype
+

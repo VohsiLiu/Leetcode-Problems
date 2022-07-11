@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/4_Median_of_Two_Sorted_Arrays.dir/4_Median_of_Two_Sorted_Arrays.cpp.o -o 4_Median_of_Two_Sorted_Arrays 

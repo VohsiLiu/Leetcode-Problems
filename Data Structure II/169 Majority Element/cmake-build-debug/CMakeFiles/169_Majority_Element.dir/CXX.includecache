@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/169 Majority Element.cpp
+iostream
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/iostream
+sstream
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/sstream
+string
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/string
+vector
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/vector
+map
+/Users/delta/Desktop/Leetcode Problems/Data Structure II/169 Majority Element/map
+

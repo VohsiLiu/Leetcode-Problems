@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4_Median_of_Two_Sorted_Arrays"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Median_of_Two_Sorted_Arrays">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug/4_Median_of_Two_Sorted_Arrays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Median_of_Two_Sorted_Arrays"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Median_of_Two_Sorted_Arrays/fast">
+				<Option output="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug/4_Median_of_Two_Sorted_Arrays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Median_of_Two_Sorted_Arrays/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/delta/Desktop/Leetcode\ Problems/Top100/4\ Median\ of\ Two\ Sorted\ Arrays/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/4 Median of Two Sorted Arrays.cpp">
+			<Option target="4_Median_of_Two_Sorted_Arrays"/>
+		</Unit>
+		<Unit filename="/Users/delta/Desktop/Leetcode Problems/Top100/4 Median of Two Sorted Arrays/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

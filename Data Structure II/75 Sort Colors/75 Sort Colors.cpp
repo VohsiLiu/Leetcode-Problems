@@ -2,14 +2,36 @@
 #include "sstream"
 #include "string"
 #include "vector"
-
+#include "cctype"
 
 using namespace std;
 
 class Solution {
 public:
-    void sortColors(vector<int>& nums) {
+    void swap(vector<int> & nums, int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 
+    void sortColors(vector<int>& nums) {
+        if (nums.empty()){
+            return;
+        }
+        int left = 0;
+        int right = nums.size() - 1;
+        for (int i = 0; i < nums.size(); i++){
+            if (nums[i] == 0){
+                swap(nums, i, left);
+                left++;
+            }else if (nums[i] == 2 && i <= right){
+                swap(nums, i, right);
+                right--;
+                if (nums[i] != 1){
+                    i--;
+                }
+            }
+        }
     }
 };
 
